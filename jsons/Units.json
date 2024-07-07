@@ -9,6 +9,7 @@
 		"cost": 50,
 		"obsoleteTech": "Metal Casting",
 		"promotions": ["Woodsman"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "nonmetalhit"
 	}
 ]
