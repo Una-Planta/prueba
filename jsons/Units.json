@@ -2,7 +2,7 @@
 	{
 		"name": "Warrior Bunny",
 		"unitType": "Sword",
-		"uniqueTo": "Kigdom Bunny",
+		"uniqueTo": "kigdom Bunny",
 		"replaces": "Warrior",
 		"movement": 3,
 		"strength": 10,
