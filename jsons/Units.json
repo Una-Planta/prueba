@@ -115,31 +115,5 @@
         "promotions": ["Mobile Shot"],
         "uniques": ["[Can] move and shoot without penalty"],
         "attackSound": "gunclick"
-    },
-    {
-        "name": "Elite Clan Commandos",
-        "unitType": "Infantry",
-        "uniqueTo": "kigdom Bunny",
-        "replaces": ["Great War Infantry"],
-        "movement": 2,
-        "strength": 50,
-        "cost": 225,
-        "obsoleteTech": "None",
-        "promotions": ["Guerrilla Tactics"],
-        "uniques": ["[+10]% Strength in all terrains", "[+1] Movement in [Forest and Jungle]"],
-        "attackSound": "riflehit"
-    },
-    {
-        "name": "Elite Commandos",
-        "unitType": "Infantry",
-        "uniqueTo": "kigdom Bunny",
-        "replaces": ["Infantry"],
-        "movement": 2,
-        "strength": 70,
-        "cost": 275,
-        "obsoleteTech": "None",
-        "promotions": ["Guerrilla Tactics"],
-        "uniques": ["[+10]% Strength in all terrains", "[+1] Movement in [Forest and Jungle]"],
-        "attackSound": "riflehit"
-    }
+    }    
 ]
